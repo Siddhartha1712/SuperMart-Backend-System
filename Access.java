@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 import java.util.HashMap;
 
 public class Access{
-    //Sumith
     static int i=1;
     private static final HashMap<String,String> pass = new HashMap<>();
 

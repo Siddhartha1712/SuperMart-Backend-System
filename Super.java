@@ -7,7 +7,6 @@ import java.util.Scanner;
 import java.util.HashMap;
 
 public class Super extends Data {
-    //Rinith
 
     Access a = new Access();
     InputStreamReader in = new InputStreamReader(System.in);

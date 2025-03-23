@@ -6,7 +6,6 @@ import java.util.Objects;
 import java.util.Scanner;
 
 public class User extends Data{
-    //Sangur
     InputStreamReader in = new InputStreamReader(System.in);
     BufferedReader bf = new BufferedReader(in);
     Scanner sc = new Scanner(System.in);
